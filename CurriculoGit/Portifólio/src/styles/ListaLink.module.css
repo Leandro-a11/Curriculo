@@ -1,0 +1,7 @@
+.space {
+    display: flex;
+    justify-content: stretch;
+    align-items: stretch;
+    flex: wrap;
+    overflow: hidden;
+}

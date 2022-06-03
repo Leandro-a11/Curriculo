@@ -1,0 +1,19 @@
+.principal {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  width: 100%;
+  border: solid 1px #777;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+
+.topicos {
+  display: flex;
+  justify-content: center;
+}

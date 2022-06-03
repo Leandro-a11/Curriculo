@@ -1,0 +1,13 @@
+.cor {
+    background-color: grey;
+    width: 100%;
+    height: 50px;
+}
+
+.div {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: antiquewhite;
+
+}

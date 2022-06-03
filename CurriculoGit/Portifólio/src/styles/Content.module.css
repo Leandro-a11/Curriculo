@@ -1,0 +1,13 @@
+.flex {
+    padding: 10px;
+    border: grey solid 1px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex2 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
