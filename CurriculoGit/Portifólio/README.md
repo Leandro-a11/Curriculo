@@ -1,12 +1,12 @@
-## Colocando Para iniciar
+# Colocando Para iniciar
 
 ## Primeiro Coloque No Terminal o Comando Para instalar as Dependências
-  npm i 
+  ###npm i 
   |
-  npm install
+  ###npm install
  
 ## Para Inicializar o Servidor, Coloque No Terminal os Comandos
-  npm run build 
+  ###npm run build 
   |
-  npm run dev
+  ###npm run dev
   
