@@ -3,11 +3,11 @@ import Link from 'next/link'
 export default function Navegacao(props) {
     return (
         <div className={style.div}>
-            <div id='link'>
-                <Link href={props.link} >
+            <Link id='link' href={props.link} >
+                <div id='linkh'>
                     {props.title}
-                </Link>
-            </div>
+                </div>
+            </Link>
         </div>
     )
 }

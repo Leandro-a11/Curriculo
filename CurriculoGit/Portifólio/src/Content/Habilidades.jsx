@@ -11,9 +11,9 @@ export default function Textohabilidades() {
                         <q>Linux, Html , Css ,Fundamentos Básicos de Design Gráfico</q>
                     </h2>
                     <h2>Outros Como ,
-                        <q> BootStrap , Jquery , Vue , React , Next</q>
+                        <q>GitHub, Estrutura de Dados E Algoritimos, BootStrap , Jquery , Vue , React , Next</q>
                     </h2>
-                    <h2>Uma Das Principais Habilidades Aprendidas Foi O JavaScript , Aprendendo Varias Coisas</h2>
+                    <h2>Uma Das Principais Habilidades Aprendidas Foi O JavaScript , Com Nível Intermediário</h2>
                     <h2 >Hoje , Meu Nivel De Inglês Está Em Intermediário</h2>
                     <h2>Entendendo Diálogos Curtos , Sabendo Conversar Um Pouco</h2>
                 </div>

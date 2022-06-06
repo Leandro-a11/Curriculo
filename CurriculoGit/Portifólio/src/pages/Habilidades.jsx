@@ -9,7 +9,7 @@ export default function Habilidade() {
             <Layout />
             <div className={style.cabecalho}>
                 <Cabecalho title="Minhas Habilidades E Conhecimentos"
-                    subtitle="Linguagens De Programação,Idiomas,Certificados" />
+                    subtitle="Linguagens De Programação,Idiomas" />
             </div>
             <TextoHabilidades />
         </div>
