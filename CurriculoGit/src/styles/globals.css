@@ -8,8 +8,8 @@ body {
   padding: 10px 5px;
   margin: 0;
   font-family: 'Work Sans', sans-serif;
-  color: white;
-  background: linear-gradient(to right, #000000, #434343);
+  color: #fff;
+  background: linear-gradient(to right, #000, #434343);
 }
 
 * {
@@ -22,9 +22,10 @@ body {
 }
 
 #link {
-  color: black;
+  color: #000;
   text-decoration: none;
   font-size: 1.4rem;
+  cursor: pointer;
 }
 
 #linkh {
@@ -34,7 +35,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: antiquewhite;
+  background-color: #faebd7;
   width: 10em;
   height: 4em;
   border-radius: 10px;

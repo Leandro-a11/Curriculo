@@ -8,7 +8,7 @@ export default function Escolaridade() {
         <div>
             <Layout />
             <div className={style.cabecalho}>
-                <Cabecalho title="Escolaridade" subtitle="Minha Formação Escolar" />
+                <Cabecalho title="Escolaridade"  />
             </div>
             <TextoEscolaridade />
         </div>

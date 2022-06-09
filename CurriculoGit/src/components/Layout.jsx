@@ -5,7 +5,7 @@ export default function Layout() {
     return (
         <div style={{
             display: 'flex',
-            justifyContent: 'flex-end',
+            justifyContent: 'center',
             alignItems: "center",
             padding: "10px"
         }} className={style.cor} >

@@ -1,5 +1,5 @@
 .href {
-    color: black;
+    color: #000;
     text-decoration: none;
     font-size: 1.4rem;
 }
@@ -8,9 +8,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: black;
+    color: #000;
     text-decoration: none;
-    background-color: antiquewhite;
+    background-color: #faebd7;
     width: 10em;
     height: 4em;
     font-size: 1.4rem;
@@ -22,7 +22,7 @@
     text-align: center;
     align-items: center;
     justify-content: center;
-    color: black;
+    color: #000;
     font-weight: bold;
     margin: 20px;
     width: 180px;

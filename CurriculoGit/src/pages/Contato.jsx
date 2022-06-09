@@ -8,7 +8,7 @@ export default function Contato() {
         <div>
             <Layout />
             <div className={style.cabecalho}>
-                <Cabecalho title="Contato" subtitle="Meus Meios De Comunicação" />
+                <Cabecalho title="Contatos" />
             </div>
             <TextoContato />
         </div>

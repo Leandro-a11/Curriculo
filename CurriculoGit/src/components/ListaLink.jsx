@@ -8,7 +8,6 @@ export default function Rodape() {
             <Navegacao title="Habilidades" link="./Habilidades" />
             <Navegacao title="Escolaridade" link="./Escolaridade" />
             <Navegacao title="Objetivos" link="./Objetivos" />
-            <Navegacao title="Atividades Complementares" link="./AtividadesComplementares" />
             <Navegacao title="Contato" link="./Contato" />
         </div>
     )
