@@ -8,10 +8,13 @@ export default function Textohabilidades() {
                 <div>
                     <h1 className={style.title}>Fazendo Cursos, Adquiri Conhecimento Em Várias Tecnologias</h1>
                     <h2>Como :
-                        <q>Linux, Html, Css, Fundamentos Básicos de Design Gráfico, DOM, AJAX, EsNext, Node</q>
+                        <q>Linux, Html, Css, Fundamentos Básicos de Design Gráfico, EsNext,</q>
                     </h2>
                     <h2>
-                        <q>GitHub, Estrutura de Dados E Algoritimos, BootStrap, Jquery, Vue, React, Next, Orientação Objetos</q>
+                        <q>GitHub, BootStrap, Jquery, Vue, React, Next, DOM, AJAX, Node</q>
+                    </h2>
+                    <h2>
+                        <q>Estrutura de Dados E Algoritimos, Orientação Objetos, MySql, Angular 9</q>
                     </h2>
                     <h2>Uma Das Principais Habilidades Aprendidas Foi O JavaScript, Atualmente Com Nível Intermediário</h2>
                     <h2 >Hoje, Meu Nivel De Inglês Está Em Intermediário.</h2>
