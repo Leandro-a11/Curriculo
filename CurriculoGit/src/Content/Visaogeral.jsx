@@ -1,4 +1,4 @@
-import FotoPerfil from '../assets/FotoDePerfil.jpeg'
+import FotoPerfil from '../assets/Foto.jpg'
 import Image from 'next/image'
 import style from '../styles/Content.module.css'
 export default function TextoVisaoGeral() {
