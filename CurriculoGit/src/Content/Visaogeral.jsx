@@ -16,7 +16,7 @@ export default function TextoVisaoGeral() {
                 <Image
                     src={FotoPerfil}
                     alt="Foto"
-                    width={350}
+                    width={400}
                     height={400}
                 />
             </div>
